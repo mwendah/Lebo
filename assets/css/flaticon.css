@@ -1,0 +1,122 @@
+@font-face {
+    font-family: "flaticon";
+    src: url("../fonts/flaticon.ttf") format("truetype"),
+url("../fonts/flaticon.woff") format("woff"),
+url("../fonts/flaticon.woff2") format("woff2"),
+url("../fonts/flaticon.eot") format("embedded-opentype"),
+url("../fonts/flaticon.svg") format("svg");
+}
+
+i[class^="flaticon-"]:before, i[class*=" flaticon-"]:before {
+    font-family: flaticon !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 0;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.flaticon-phone-call:before {
+    content: "\f101";
+}
+.flaticon-email:before {
+    content: "\f102";
+}
+.flaticon-pin:before {
+    content: "\f103";
+}
+.flaticon-back:before {
+    content: "\f104";
+}
+.flaticon-next:before {
+    content: "\f105";
+}
+.flaticon-shield:before {
+    content: "\f106";
+}
+.flaticon-support:before {
+    content: "\f107";
+}
+.flaticon-data-management:before {
+    content: "\f108";
+}
+.flaticon-globe:before {
+    content: "\f109";
+}
+.flaticon-left-quote:before {
+    content: "\f10a";
+}
+.flaticon-play:before {
+    content: "\f10b";
+}
+.flaticon-check:before {
+    content: "\f10c";
+}
+.flaticon-user:before {
+    content: "\f10d";
+}
+.flaticon-facebook:before {
+    content: "\f10e";
+}
+.flaticon-twitter:before {
+    content: "\f10f";
+}
+.flaticon-linkedin:before {
+    content: "\f110";
+}
+.flaticon-instagram:before {
+    content: "\f111";
+}
+.flaticon-instagram-1:before {
+    content: "\f112";
+}
+.flaticon-add:before {
+    content: "\f113";
+}
+.flaticon-minus:before {
+    content: "\f114";
+}
+.flaticon-down-arrow:before {
+    content: "\f115";
+}
+.flaticon-down-arrow-1:before {
+    content: "\f116";
+}
+.flaticon-right-arrow:before {
+    content: "\f117";
+}
+.flaticon-star:before {
+    content: "\f118";
+}
+.flaticon-discuss:before {
+    content: "\f119";
+}
+.flaticon-solution:before {
+    content: "\f11a";
+}
+.flaticon-guru:before {
+    content: "\f11b";
+}
+.flaticon-share:before {
+    content: "\f11c";
+}
+.flaticon-skype:before {
+    content: "\f11d";
+}
+.flaticon-click:before {
+    content: "\f11e";
+}
+.flaticon-money:before {
+    content: "\f11f";
+}
+.flaticon-cashback:before {
+    content: "\f120";
+}
+.flaticon-trusted:before {
+    content: "\f121";
+}
+.flaticon-search:before {
+    content: "\f122";
+}
